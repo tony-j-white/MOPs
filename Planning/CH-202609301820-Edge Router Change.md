@@ -25,3 +25,13 @@ end_time: 2026-09-30T18:20:53-05:00
 [testing.pdf](../Media/testing.pdf)
 
 ## Verification
+
+
+```
+config t
+int Gi0/0
+	desc Test
+end
+copy run start
+```
+
