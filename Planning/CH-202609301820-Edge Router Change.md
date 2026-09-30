@@ -22,5 +22,6 @@ end_time: 2026-09-30T18:20:53-05:00
 
 ## Rollback
 
-![](../Media/testing.pdf)
+[testing.pdf](../Media/testing.pdf)
+
 ## Verification
