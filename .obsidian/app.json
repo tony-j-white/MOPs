@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Planning",
+  "attachmentFolderPath": "Media",
+  "showUnsupportedFiles": true
+}
