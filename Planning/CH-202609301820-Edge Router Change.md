@@ -63,6 +63,18 @@ public class Main {
 }
 ```
 
+```iosxr
+config
+router bgp 65001
+	vrf inet
+		neighbor 8.8.8.8
+			remote-as 12345
+			route-policy IPV4_GOOGLE_OUT_ROUTE_POLICY out
+show commit changes diff
+commit
+end
+```
+
 
 ## Maintenance Operation
 
