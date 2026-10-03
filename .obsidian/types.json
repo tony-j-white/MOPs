@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "start_time": "datetime",
-    "end_time": "datetime"
+    "end_time": "datetime",
+    "change_type": "multitext"
   }
 }

@@ -1,13 +1,7 @@
 ---
 title: Edge Router Change
 id: CH-202609301820
-change_type:
-  - Quick
-  - Minor
-  - Major
-  - Emergency
-  - Retrospective
-  - Vendor
+change_type: Quick
 start_time: 2026-09-30T18:20:53-05:00
 end_time: 2026-09-30T18:20:53-05:00
 ---
@@ -17,7 +11,13 @@ end_time: 2026-09-30T18:20:53-05:00
 [stuff](../Media/Lab%208%20-%20HashMaps.docx)
 new change
 
-$F(x) = n^2 \cdot \sqrt{\frac{log_{10} L^{15} }{\sqrt{n}}}$
+
+Math:
+
+$F(x) = n^2 \cdot (\sqrt{\frac{log_{10} L^{15} }{\sqrt{n}}})$
+
+Mermaid:
+
 ```mermaid
 flowchart TD
 router1 <-- link1 --> router2

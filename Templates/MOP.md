@@ -15,7 +15,7 @@ end_time: "{{date:YYYY-MM-DD[T]HH:mm:ssZ}}"
 ## Preparation
 
 
-## Maintenance Operation
+## Operation
 
 
 ## Rollback
