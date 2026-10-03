@@ -1,5 +1,4 @@
 ---
-title: ""
 id: "{{title}}"
 change_type:
   - Quick
@@ -11,7 +10,7 @@ change_type:
 start_time: "{{date:YYYY-MM-DD[T]HH:mm:ssZ}}"
 end_time: "{{date:YYYY-MM-DD[T]HH:mm:ssZ}}"
 ---
-# [Change Title]
+# Change Title
 
 ## Summary
 ### What is being done?
